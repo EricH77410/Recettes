@@ -25,7 +25,7 @@ class MiniCard extends React.Component {
     return(
 			<section id="apps">
     	<ul>
-      	<li className="card" tabindex="0" aria-haspopup="true">
+      	<li className="card" tabIndex="0" aria-haspopup="true">
         	<div className="intro">
           	<img src={recette.image} width="140" height="140" alt="Pixelmator app icon" />
           	<h3>{recette.nom}</h3>

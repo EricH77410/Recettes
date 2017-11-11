@@ -140,6 +140,10 @@ header h1 {
 	font-weight: bold;
 }
 
+.input-search {
+	float: right;
+}
+
 @media all and (max-width:500px) {
 
 	h1 {

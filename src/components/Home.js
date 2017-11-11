@@ -42,7 +42,7 @@ class Home extends React.Component {
 				},
 				art3: {
 					titre:'Article 3',
-					img: 'http://images.telerama.fr/medias/2016/01/media_137571/les-recettes-de-cuisine-facile-sur-facebook-pornfood-ad-nauseam,M299776.jpg',
+					img: 'https://st.hzcdn.com/simgs/44e1ce6d06bb9007_4-8499/industriel-cuisine.jpg',
 					text: 'Lorem3 ipsum dolor sit amet, consectetur adipisicing elit. Debitis atque recusandae sed quidem officiis harum nobis dolor! Nobis doloremque, soluta ad sit vero perferendis officia repellat, nostrum error incidunt ipsum.'
 				},
 			},

@@ -10,7 +10,7 @@ import reducers from './reducers/reducers';
 const createStoreWithMiddleware = applyMiddleware()(createStore);
 
 // Components
-import App from './components/App';
+import App from './containers/App';
 //import Connexion from './components/Connexion';
 import NotFound from './components/NotFound'
 import Home from './components/Home';

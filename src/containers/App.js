@@ -2,9 +2,9 @@
 import React from 'react';
 
 //Components
-import Header from './Header';
-import Admin from './Admin';
-import Card from './Card';
+import Header from '../components/Header';
+import Admin from '../components/Admin';
+import Card from '../components/Card';
 
 // Importer les recettes
 //import recettes from '../recettes';
@@ -70,7 +70,7 @@ class App extends React.Component {
  					ajouterRecette={this.ajouterRecette}
  					updateRecette={this.updateRecette}
  					supprimerRecette={this.supprimerRecette}
- 				/>			
+ 				/>
 			</div>
 		)
 	}

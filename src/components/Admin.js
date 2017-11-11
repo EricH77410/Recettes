@@ -85,7 +85,7 @@ class Admin extends React.Component {
 				<AjouterRecette ajouterRecette={this.props.ajouterRecette} />
 				{adminCards}
 				<footer>
-					<button>Remplir</button>
+					<p>Rico</p>
 				</footer>
 			</div>
 		)
